@@ -1,9 +1,8 @@
 # Fibra Optica
 
 Movistar's Fibra Optica offers high-speed internet connection with different plans:
-
-    Fibra 600 Mb: Ideal for households with high internet usage, allowing multiple devices to connect simultaneously without speed loss. Offered at €52.90/month for the first three months without a contract.
-    Fibra 1 Gb: Provides ultra-fast connection, suitable for 4K streaming, online gaming, and working from home, available at €35.90/month for the first three months without a contract​ (Movistar Ofertas)​.
+1. Fibra 600 Mb: Ideal for households with high internet usage, allowing multiple devices to connect simultaneously without speed loss. Offered at €52.90/month for the first three months without a contract.
+2. Fibra 1 Gb: Provides ultra-fast connection, suitable for 4K streaming, online gaming, and working from home, available at €35.90/month for the first three months without a contract​ (Movistar Ofertas)​.
 
 # Movistar Plus+
 

@@ -30,9 +30,9 @@ Movistar's Internet Radio 5G is an alternative to ADSL and traditional fiber, pr
 - Fast and stable connection through the 5G network.
 - Especially useful in rural areas or where fiber installation is not feasible​ (Xataka Móvil)​.
 
-# Movistar Salud
+# Movistar Health
 
-Movistar Salud is a telemedicine service that includes:
+Movistar Health is a telemedicine service that includes:
 - Access to online medical consultations 24/7.
 - Access to general medicine and specialists.
 - Issuance of electronic medical prescriptions.
